@@ -14,6 +14,4 @@ The deployment of our Linear Regression engine yielded a critical data science i
 ### 3. The Co-linear Mental Health Landscape
 Our geometric correlation matrix uncovers an interconnected "anxiety loop." High daily social media hours do not act as an isolated variable; instead, they serve as a primary catalyst that scales simultaneously alongside elevated stress_level and anxiety_level indices. This systemic co-linearity suggests that platform design paradigms (infinite scroll, variable reward loops) are fundamentally linked to heightened states of psychological urgency and physiological exhaustion among teen demographics.
 
----
 
-*Data Architecture, Insights, and Predictive Engine finalized successfully.*
