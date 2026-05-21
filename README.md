@@ -8,7 +8,7 @@ Our exploratory analysis strongly validates the *Time Displacement Theory* in mo
 ### 2. Predictive Modelling & Architectural Limitations
 The deployment of our Linear Regression engine yielded a critical data science insight:
 
-* **The Complexity of Human Metrics:** While our model successfully processed a concrete predictive baseline—determining that a high-exposure user (7.5 hours/day) is mathematically restricted to an estimated 6.5 hours of sleep—the R² score hovering near 0.00 exposes a vital systemic reality.
+* **The Complexity of Human Metrics:** While our model successfully processed a concrete predictive baseline- determining that a high-exposure user (7.5 hours/day) is mathematically restricted to an estimated 6.5 hours of sleep- the R² score hovering near 0.00 exposes a vital systemic reality.
 * **Non-Linear Dynamics:** Human psychological states and mental health triggers are highly multivariate. A straight linear path cannot fully map the nuanced, scattered variance of human behavior, signaling that future iterations of this project require complex, non-linear algorithmic modeling (such as Polynomial Regression or Random Forest Classifiers) to capture the true structural density of the data.
 
 ### 3. The Co-linear Mental Health Landscape
